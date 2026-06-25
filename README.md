@@ -81,7 +81,7 @@ Comprehensive data analytics project focused on extracting business insights fro
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
+> Replace `RohithNaidu23` with your actual GitHub username.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
